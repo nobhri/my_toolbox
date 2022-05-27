@@ -19,17 +19,6 @@ def create_where_clause(extract_conditions_list):
         where_clause += condition_i
     return where_clause
 
-
-# def concatenate_sql_clauses(select_clause, from_clause, where_clause):
-#     query_str =\
-#         select_clause + '\n'\
-#         + from_clause + '\n'
-#     if len(where_clause) >= 6:
-#         query_str += where_clause
-
-#     # print(query_str)
-#     return query_str
-
 def concatenate_sql_clauses(column_list, table_name, extract_conditions_list):
     select_clause = create_select_clause(column_list)
     from_clause = create_from_clause(table_name)
