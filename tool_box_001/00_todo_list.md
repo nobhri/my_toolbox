@@ -21,6 +21,7 @@
 - process note of sheet
 - get specific note from the chord
 ## others
+- WSL
 - git ignore
 - database
 - docker
