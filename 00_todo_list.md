@@ -2,12 +2,10 @@
 ## python
 ### built in
 - dictionary
-### os
-- get environment variable
 ### re
-### openxl
 ### pandas
 - read_excel
+- join tables
 ### matplotlib
 ### scikit-learn
 - linear regression
