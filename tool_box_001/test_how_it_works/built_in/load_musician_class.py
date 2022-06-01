@@ -1,4 +1,4 @@
-import musician_class
+import musician_class as musician_class
 
 print(musician_class.Jimi_Hendrix.instrument)
 print(musician_class.Miles_Davis.genre)

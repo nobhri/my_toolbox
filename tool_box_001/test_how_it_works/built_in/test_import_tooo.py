@@ -1,5 +1,5 @@
 # test_import_tooo.py
-import test_my_tools
+import my_toolbox.tool_box_001.test_how_it_works.built_in.test_my_tools as test_my_tools
 
 boring_statement = 'I am a programmer.'
 
