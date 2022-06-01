@@ -1,7 +1,8 @@
 
 # binary file
 *.xlsx
-
+*.jpg
+*.png
 # Python
 __pycache__/
 .ipynb_checkpoints
