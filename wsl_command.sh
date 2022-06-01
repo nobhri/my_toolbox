@@ -17,3 +17,6 @@ wsl --status
 
 # set version number to specific linux distribution
 wsl --set-version <distribution name> <versionNumber>
+
+# open with explorer
+explorer.exe .
