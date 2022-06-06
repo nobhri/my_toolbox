@@ -1,3 +1,5 @@
+# large data
+*.csv
 
 # binary file
 *.xlsx
