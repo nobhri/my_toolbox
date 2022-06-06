@@ -9,15 +9,13 @@
 - '[0-9]{8}'
 ### pandas
 - read_excel
-- join tables
-- get raw value from dataframe (to_array, at, loc)
 - get index
+- generate test data
 ### matplotlib
 ### scikit-learn
 - linear regression
 ### openpyxl
 - change column name
-### tweepy
 ### Django
 - simple web application
 - REST API
