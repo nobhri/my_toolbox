@@ -23,9 +23,17 @@
 - read xml file
 - process note of sheet
 - get specific note from the chord
+## database
+### PostgreSQL
+- create user
+- create database
+- create table
+- execute SQL query
+## docker
+- execute python script
+- execute Postgres command
+- access from a container to another
 ## others
-- database
-- docker
 - algorithm
 - browser on WSL
 - cloud platform
