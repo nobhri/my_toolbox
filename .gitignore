@@ -2,6 +2,7 @@
 *.csv
 
 # binary file
+*.out
 *.xlsx
 *.jpg
 *.png
