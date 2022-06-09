@@ -6,6 +6,7 @@
 *.xlsx
 *.jpg
 *.png
+*.gif
 # Python
 __pycache__/
 .ipynb_checkpoints
