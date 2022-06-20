@@ -3,13 +3,7 @@
 ### built in
 - dictionary
 - urllib
-### re
-- match
-- full match
-- '[0-9]{8}'
 ### pandas
-- read_excel
-- get index
 - generate test data
 ### matplotlib
 ### scikit-learn
@@ -23,6 +17,14 @@
 - read xml file
 - process note of sheet
 - get specific note from the chord
+### selenium
+- select elements
+- write text
+- click
+- set download directory
+- take screen shot
+### pygui
+- take screen shot
 ## database
 ### PostgreSQL
 - create user
