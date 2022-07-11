@@ -4,7 +4,13 @@
 - dictionary
 - urllib
 ### pandas
+- process strings of the column(df['column_name'].str.replace('before','after'))
+- something like case when of SQL (loc, aplly)
 - generate test data
+- rename column with dictionary and so on
+- df.to_csv() option ... quote strings
+- filter with datetime
+### faker
 ### matplotlib
 ### scikit-learn
 - linear regression
@@ -13,6 +19,7 @@
 ### Django
 - simple web application
 - REST API
+### pytest
 ### music21
 - read xml file
 - process note of sheet
