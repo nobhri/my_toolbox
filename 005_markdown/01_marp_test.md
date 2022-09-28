@@ -1,20 +1,15 @@
 ---
 marp: true
 ---
+
 # Title
 
-text
+- text
+- text
 
 ---
 
 # Title
-
-text
-
----
-
-# Title
-
-- text
-- text
-- text
+```python  
+print('hello')
+```
