@@ -8,6 +8,7 @@
 *.png
 *.gif
 *.pdf
+*.jpeg
 # Python
 __pycache__/
 .ipynb_checkpoints
