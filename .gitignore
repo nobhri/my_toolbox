@@ -9,6 +9,7 @@
 *.gif
 *.pdf
 *.jpeg
+*.pickle
 # Python
 __pycache__/
 .ipynb_checkpoints
