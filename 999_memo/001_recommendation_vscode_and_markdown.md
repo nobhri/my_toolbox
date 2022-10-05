@@ -16,7 +16,7 @@
       - [Markdown Preview Ggithub Styles](#markdown-preview-ggithub-styles)
       - [Insert Date String](#insert-date-string)
       - [Markdown PDF](#markdown-pdf)
-  - [応用編: よくある議論 ~全て拡張機能で解決~](#応用編-よくある議論-全て拡張機能で解決)
+  - [応用編: よくある議論 --全て拡張機能で解決--](#応用編-よくある議論---全て拡張機能で解決--)
     - [表の成形が手間じゃない？](#表の成形が手間じゃない)
       - [Text Tables](#text-tables)
       - [Edit csv](#edit-csv)
@@ -120,7 +120,7 @@ markdownを使い始めたら、まずは箇条書きメモとかを作るとい
   -  この拡張機能に限らず使えるらしい。
 <br><br>
 
-## 応用編: よくある議論 ~全て拡張機能で解決~
+## 応用編: よくある議論 --全て拡張機能で解決--
 ### 表の成形が手間じゃない？
 その通り。markdownの表を作るのは見づらいし、めんどくさい。  拡張機能を使おう。  
 
