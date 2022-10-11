@@ -2,10 +2,10 @@
 - [Visual Studio Code & markdown で快適な業務環境を整えよう！](#visual-studio-code--markdown-で快適な業務環境を整えよう)
   - [結論: ひとことで言うと](#結論-ひとことで言うと)
   - [背景](#背景)
+  - [想定読者](#想定読者)
   - [前提](#前提)
     - [Visual Studio Codeとは？](#visual-studio-codeとは)
     - [markdownとは？](#markdownとは)
-  - [想定読者](#想定読者)
   - [なぜVScodeか](#なぜvscodeか)
   - [なぜmarkdownか](#なぜmarkdownか)
   - [基本編: 書き方 & 操作](#基本編-書き方--操作)
@@ -13,7 +13,7 @@
     - [操作](#操作)
   - [基本編: 拡張機能](#基本編-拡張機能)
       - [Markdown All in One](#markdown-all-in-one)
-      - [Markdown Preview Ggithub Styles](#markdown-preview-ggithub-styles)
+      - [Markdown Preview Github Styles](#markdown-preview-github-styles)
       - [Insert Date String](#insert-date-string)
       - [Markdown PDF](#markdown-pdf)
   - [応用編: よくある議論 --全て拡張機能で解決--](#応用編-よくある議論---全て拡張機能で解決--)
@@ -43,6 +43,10 @@ Visual Studio Codeとmarkdown形式ファイルを使おう
 - 有益なので共有する。
 <br><br>
 
+## 想定読者
+- メモ作成や資料作成がめんどくさいと感じる人
+- Excel方眼紙から逃れたい人
+
 ## 前提
 
 ### Visual Studio Codeとは？
@@ -57,9 +61,7 @@ Visual Studio Codeとmarkdown形式ファイルを使おう
 
 <br>詳しくはweb検索してね。  
 <br><br>
-## 想定読者
-- メモ作成や資料作成がめんどくさいと感じる人
-- Excel方眼紙から逃れたい人
+
 
 <br>
 
@@ -101,7 +103,7 @@ markdownを使い始めたら、まずは箇条書きメモとかを作るとい
 #### Markdown All in One
 - 自動補完してくれる。
 - 目次を作れる。
-#### Markdown Preview Ggithub Styles
+#### Markdown Preview Github Styles
 - プレビューをいい感じにしてくれる。
 - デフォルトのプレビューは黒い背景に白い文字だが、<br>この拡張機能を使うと白い背景に黒い文字を選べる。
 - 動作が軽い。
@@ -149,8 +151,10 @@ markdownを使い始めたら、まずは箇条書きメモとかを作るとい
 
 #### Draw.io Integration
 - ドラッグアンドドロップで直感的に作図できる。
+- ファイルサイズはでかい。
 #### Markdown Preview Mermaid Support
 - ガントチャートが作りやすい。
+- 大体何の図を作ってもコンパクトにできる。
 #### PlantUML
 - (作成中: 使ったことがないのでわからない。使ったら追記する。)
 - Javaがインストールされていることが必要らしい。
@@ -179,7 +183,7 @@ markdownを使い始めたら、まずは箇条書きメモとかを作るとい
 - [VSCode上のマークダウン とDraw.ioでドキュメントを作成する](https://qiita.com/oruharo/items/f5bdeedad28731da1b11)
 - [Mermaid記法の書き方（Markdownテキストでチャート・グラフが描ける）](https://notepm.jp/help/mermaid)
 - [【VS Code + Marp】Markdownから爆速・自由自在なデザインで、プレゼンスライドを作る](https://qiita.com/tomo_makes/items/aafae4021986553ae1d8)
-<br><br>リンクは随時追加予定 
+
 <br><br><br>
 
 おわり
