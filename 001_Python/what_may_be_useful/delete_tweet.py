@@ -32,12 +32,15 @@ api = tweepy.API(auth)
 counter = 0
 for tweet_i in tweepy.Cursor(api.user_timeline).items():
     if (tweet_i.created_at <= target_ymd) & (tweet_i.user.screen_name == user_screen_name):
-        print(tweet_i.created_at)
-        print(tweet_i.text)
-        print(tweet_i.user.name)
-        print(tweet_i.user.screen_name)
-        api.destroy_status(tweet_i.id)
-        counter += 1
+        try:
+            print(tweet_i.created_at)
+            print(tweet_i.text)
+            print(tweet_i.user.name)
+            print(tweet_i.user.screen_name)
+            api.destroy_status(tweet_i.id)
+            counter += 1
+        except Exception as e:
+            print(e.args)
 
 print(f'{counter} tweets has deleted')
 
