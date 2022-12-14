@@ -10,6 +10,7 @@
 *.pdf
 *.jpeg
 *.pickle
+*.exe
 # Python
 __pycache__/
 .ipynb_checkpoints
