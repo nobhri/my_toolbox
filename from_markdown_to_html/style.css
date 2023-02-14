@@ -1,0 +1,42 @@
+h1 {
+    color: red;
+    font-family: 'Crimson Pro', serif;
+}
+
+h2 {
+    color: blue;
+}
+
+h3 {
+    color: green;
+    font-family: 'Literata', serif;
+}
+
+p {
+    font-family: sans-serif;
+}
+table{
+    border-collapse: collapse;
+    border: 2px solid rgb(200,200,200);
+    letter-spacing: 1px;
+    font-size: 0.8rem;
+}
+tr, th, td{
+    border: 1px solid rgb(190,190,190);
+    padding: 10px ;
+}
+ul{
+    color: red;
+}
+ol{
+    color: blue;
+}
+
+strong {
+    color: green;
+}
+
+code{
+    background-color: black;
+    color: white;
+}
